@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Canin Carlos, a.k.a. Culture Clap.
+My name is Canin Carlos, a.k.a. [Culture Clap](https://www.cultureclap.com).
 
 I'm a self-taught developer and survivor of white supremacy.
 <!--
