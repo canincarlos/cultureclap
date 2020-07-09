@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Canin Carlos, a.k.a. Culture Clap.
+
+I'm a self-taught developer and survivor of white supremacy.
 <!--
 **cultureclap/cultureclap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
