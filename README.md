@@ -5,6 +5,7 @@ My name is Canin Carlos, a.k.a. [Culture Clap](https://www.cultureclap.com).
 I'm a self-taught developer and survivor of white supremacy.
 
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <!--
 **cultureclap/cultureclap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
