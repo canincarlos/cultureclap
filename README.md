@@ -10,8 +10,6 @@ I've been coding for many years, originally started in high school creating GeoC
 
 My work is documented via the [@ScreamFreely](//www.github.com/ScreamFreely) project where I'm using [@VueJS](//www.github.com/vuejs) to built a wrapper around an expansion of the Open States work.
 
-![Visitor Count](https://profile-counter.glitch.me/cultureclap/count.svg)
-
 <!--
 **cultureclap/cultureclap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
