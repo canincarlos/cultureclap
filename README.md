@@ -6,9 +6,9 @@ I'm a self-taught developer and survivor of white supremacy.
 
 I've been coding for many years, originally started in high school creating GeoCities & Angelfire pages for my high school band; and returned to the field as I viewed it as a viable skill to earn money, and I had a project I wanted to build.
 
-[MnActivist.Org](https//www.mnactivist.org) is that project, built around the @OpenStates project.
+[MnActivist.Org](https//www.mnactivist.org) is that project, built around the [@OpenStates](//www.github.com/OpenStates) project.
 
-My work is documented via the @ScreamFreely project where I'm using @VueJS to built a wrapper around an expansion of the Open States work.
+My work is documented via the [@ScreamFreely](//www.github.com/ScreamFreely) project where I'm using @VueJS to built a wrapper around an expansion of the Open States work.
 
 ![Visitor Count](https://profile-counter.glitch.me/cultureclap/count.svg)
 
