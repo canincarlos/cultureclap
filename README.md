@@ -4,7 +4,7 @@ My name is Canin Carlos, a.k.a. [Culture Clap](https://www.cultureclap.com).
 
 I'm a self-taught developer and survivor of white supremacy.
 
-I've been coding for many years, originally started in high school creating GeoCities & Angelfire pages for my high school band; and returned to the field as I viewed it as a viable skill to earn money, and I had a project I wanted to build.
+Coding since the early 2000's, originally I started in high school creating GeoCities & Angelfire pages for my high school band; and returned to the field as I viewed it as a viable skill to earn money, and I had a project I wanted to build. The whole *consistently earning money from tech* has yet to pan out, but I've built some *fun to me* projects in the interim.
 
 [MnActivist.Org](https//www.mnactivist.org) is that project, built around the [@OpenStates](//www.github.com/OpenStates) project.
 
