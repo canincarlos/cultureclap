@@ -10,7 +10,9 @@ Coding since the early 2000's, originally I started in high school creating [Geo
 
 [MnActivist.Org](https//www.mnactivist.org) is that project, built around the [@OpenStates](//www.github.com/OpenStates) project.
 
-My work is documented via the [@ScreamFreely](//www.github.com/ScreamFreely) project where I'm using [@VueJS](//www.github.com/vuejs) to built a wrapper around an expansion of the Open States work. While creating *Learn to Code* curriculum via [@RebelCoding](//www.github.com/RebelCoding).
+My work is documented via [@ScreamFreely](//www.github.com/ScreamFreely) where I'm using [@VueJS](//www.github.com/vuejs) to built a wrapper around an expansion of the Open States project. As well I am creating *Learn to Code* curriculum via [@RebelCoding](//www.github.com/RebelCoding).
+
+It's all part and parcel of the Culture Clap ethos; to bring multiple rhythms, melodies and harmonies together in creation of something of which anyone can partake.
 
 <!--
 **cultureclap/cultureclap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
