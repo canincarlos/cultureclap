@@ -8,7 +8,7 @@ Currently I'm building [DreamFreely Labs](//www.dreamfreely.xyz), as well as hel
 
 [idioke Daily](//www.idioke.com) is a [Telegram channel](//t.me/idioke_daily); with a web and phone app on deck behind the scenes :)
 
-[Blog](//ghost.cultureclap.com) |  [Twitter](//twitter.com/cultureclap) | [Patreon](//patreon.com/cultureclap) | [idioke Docs]() | [Obsidian Vaults](/DreamVault) | [Doc Templates]() | [Helpful Files](/helpful_files)
+[Blog](//ghost.cultureclap.com) |  [Twitter](//twitter.com/cultureclap) | [Patreon](//patreon.com/cultureclap) | [idioke Docs](/idiokeDaily) | [Obsidian Vaults](/DreamVault) | [Doc Templates]() | [Helpful Files](/helpful_files)
 
 
 ## Tasks On-Deck
