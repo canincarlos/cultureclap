@@ -1,14 +1,8 @@
-# Hola ... 👋
+# Welcome to Culture Clap (🍃, 🧪) 
 
-**My name is Canin Carlos,** a.k.a. [Culture Clap](https://www.cultureclap.com).
+**My name is Canin Carlos" a.k.a. [Culture Clap](https://www.cultureclap.com)
 
-I'm sincere; and that's a really bad thing in this world, I've learned.
-
-Currently I'm building DreamFreely Labs, as well as helping a few DAOs with things.
-
-# What I'm Building:
-
-[DreamFreely Labs](https//www.dreamfreely.xyz)
+Currently I'm building [DreamFreely Labs](//www.dreamfreely.xyz), as well as helping a few DAOs with things.
 
 [Rebel Coding](//rebelcoding.com) is a *Learn to Code* curriculum via [@RebelCoding](//www.github.com/RebelCoding).
 
