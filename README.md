@@ -1,4 +1,4 @@
-# Welcome to Culture Clap (🍃, 🧪) 
+# Welcome to Culture Clap (🍃,🧪) 
 
 **My name is Canin Carlos" a.k.a. [Culture Clap](https://www.cultureclap.com)
 
