@@ -16,6 +16,12 @@ It's all part and parcel of the Culture Clap ethos; to bring multiple rhythms, m
 
 [Blog](//ghost.cultureclap.com) | [LinkedIn](//twich.tv/cultureclap) | [Twitter](//twitter.com/cultureclap) | [Patreon](//patreon.com/cultureclap) 
 
+
+## Tutorials On-Deck
+
+- [ ] Custom shrc file
+
+
 <!--
 **cultureclap/cultureclap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
