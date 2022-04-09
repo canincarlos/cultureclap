@@ -22,6 +22,7 @@ Currently I'm building DreamFreely Labs, as well as helping a few DAOs with thin
 - [ ] Custom shrc file - #tutorial
 - [ ] ecodao Discord / Twitter bot
 - [ ] fix ecodao website error
+- [ ] ecodao calendar
 
 
 <!--
