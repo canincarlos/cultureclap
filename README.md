@@ -8,18 +8,20 @@ Currently I'm building DreamFreely Labs, as well as helping a few DAOs with thin
 
 # What I'm Building:
 
-[DreamFreely Labs](https//www.dreamfreely.xyz) is a project that houses many other projects. One being ScreamFreely, built around the [@OpenStates](//www.github.com/OpenStates) project. As well, I am creating *Learn to Code* curriculum via [@RebelCoding](//www.github.com/RebelCoding).
+[DreamFreely Labs](https//www.dreamfreely.xyz)
 
-Next up is a program called [idioke Daily](//www.idioke.com). The initial program has very little tech, outside of a [Telegram channel](//t.me/idioke_daily); though there is a web and phone app on deck behind the scenes :)
+[Rebel Coding](//rebelcoding.com) is a *Learn to Code* curriculum via [@RebelCoding](//www.github.com/RebelCoding).
 
-It's all part and parcel of the Culture Clap ethos; to bring multiple rhythms, melodies and harmonies together in creation of something of which anyone can partake.
+[idioke Daily](//www.idioke.com) is a [Telegram channel](//t.me/idioke_daily); with a web and phone app on deck behind the scenes :)
 
 [Blog](//ghost.cultureclap.com) |  [Twitter](//twitter.com/cultureclap) | [Patreon](//patreon.com/cultureclap) 
 
 
-## Tutorials On-Deck
+## Tasks On-Deck
 
-- [ ] Custom shrc file
+- [ ] Custom shrc file - #tutorial
+- [ ] ecodao Discord / Twitter bot
+- [ ] fix ecodao website error
 
 
 <!--
