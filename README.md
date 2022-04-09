@@ -15,8 +15,12 @@ Currently I'm building [DreamFreely Labs](//www.dreamfreely.xyz), as well as hel
 
 - [ ] Custom shrc file - #tutorial
 - [ ] ecodao Discord / Twitter bot
-- [ ] fix ecodao website error
+- [ ] build ecodao-mirror work-around
 - [ ] ecodao calendar
+- [ ] Telegram bot (idioke y otro)
+
+# Task Updates
+Got the Twitter keys for the Discord bot, learned that the mirror-next template doesn't serve editions yet, gonna try to find a way around this; so that we can still use the tempate for the ecodao site.
 
 
 <!--
