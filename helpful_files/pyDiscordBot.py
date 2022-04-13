@@ -1,15 +1,22 @@
+# SUPER great tutorial by FreeCodeCamp
+# https://www.youtube.com/watch?v=SPTfmiYiuok
+
 from pprint import pprint as ppr
 
 import discord
 import tweepy
 
-SERVER_ID = ""
+import token
+
+
+BOT_TOKEN = token.bot_tech
+SERVER_ID = token.server
 
 tweetle = tweepy.Client(
-    consumer_key="",
-    consumer_secret="",
-    access_token="",
-    access_token_secret=""
+    consumer_key=tw_consumer_key,
+    consumer_secret=tw_consumer_secret,
+    access_token=tw_access_token,
+    access_token_secret=tw_access_secret
 )
 
 intents = discord.Intents(reactions=True)
@@ -61,4 +68,4 @@ async def on_raw_reaction_add(payload):
 		if len(set(nul)) > 80:
 			tweetle.create_tweet(text=message.content[7:])
 
-client.run(DISCORD_BOT_ID)
+client.run(BOT_TOKEN)
